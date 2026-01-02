@@ -27,10 +27,10 @@ Each folder represents **one day of learning** with:
 ## 📅 Daily Learning Log
 
 | Day | Topic | Status | Notes Link |
-|-----|-------------------------------|--------|-------------|
+|-----|----------------------------------|----|------------------------|
 | 1   | React Basics – Intro, DOM, Setup | ✔ | `day01-basics/notes.md` |
-| 2   | JSX, Components, Props, Babel | ✔ | `day02/notes.md` |
-| 3   | State & Hooks | ⏳ | Coming soon |
+| 2   | JSX, Components, Props, Babel    | ✔ | `day02/notes.md` |
+| 3   | Vite working                     | ✔ | `day03/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
