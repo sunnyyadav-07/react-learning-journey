@@ -12,10 +12,10 @@ const Header = ({ allTask }) => {
       <div className="bg-[#0B1444]/80 border-4 border-indigo-400/70 rounded-2xl p-5 flex w-full gap-4  items-center">
         <div className="flex-1  ">
           <div className="w-full">
-            <div className="flex flex-col justify-center gap-2">
+            <div className="flex flex-col justify-center gap-3">
               <h1 className="text-white text-5xl font-bold">ToDo App</h1>
-              <p className="text-indigo-300 font-medium text-2xl">
-                Keep it up!
+              <p className="text-green-300 font-medium text-xl">
+                List your task!
               </p>
             </div>
 
