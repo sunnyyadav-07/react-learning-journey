@@ -31,7 +31,10 @@ Each folder represents **one day of learning** with:
 | 1   | React Basics – Intro, DOM, Setup | ✔ | `day01-basics/notes.md` |
 | 2   | JSX, Components, Props, Babel    | ✔ | `day02/notes.md` |
 | 3   | Vite working                     | ✔ | `day03/src/notes.md` |
-| 3   | useState,useEffect               | ✔ | `day04/src/notes.md` |
+| 4   | useState,useEffect               | ✔ | `day04/src/notes.md` |
+| 5   | under the hood working of React  | ✔ | `day05/src/notes.md` |
+| 6   | Todo project allMost             | ✔ |                      |
+| 7   | Todo project complete            | ✔ | `day07/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
