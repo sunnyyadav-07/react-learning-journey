@@ -36,7 +36,8 @@ Each folder represents **one day of learning** with:
 | 6   | Todo project allMost                     | ✔ |                      |
 | 7   | Todo project complete                    | ✔ | `day06/src/notes.md` |
 | 8   | Form handling input type text and radio  | ✔ | `day08/src/notes.md` |
-| 8   | Form handling input type checkbox        | ✔ | `day09/src/notes.md` |
+| 9   | Form handling input type checkbox        | ✔ | `day09/src/notes.md` |
+| 9   | Form handling select/option              | ✔ | `day10/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
