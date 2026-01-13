@@ -1,6 +1,6 @@
 import React from "react";
 
-const CheckboxGroup = ({checked,handleChange}) => {
+const CheckboxGroup = ({checked,handleChange,error}) => {
   const skillsData = ["HTML", "CSS", "JavaScript", "React"];
   return (
     <div>
@@ -19,6 +19,7 @@ const CheckboxGroup = ({checked,handleChange}) => {
           </label>
         ))}
       </div>
+        {error && <p className="text-red-600">{error}</p>}
     </div>
   );
 };

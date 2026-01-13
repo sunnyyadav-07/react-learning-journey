@@ -1,6 +1,6 @@
 import React from "react";
 
-const RadioGroup = ({ value, handleChange }) => {
+const RadioGroup = ({ value, handleChange ,error}) => {
   return (
     <div>
       <label className="block font-medium mb-2">Gender</label>
@@ -12,7 +12,6 @@ const RadioGroup = ({ value, handleChange }) => {
             checked={value === "male"}
             value={"male"}
             className="accent-blue-600"
-            
             onChange={handleChange}
           />
           Male
@@ -29,6 +28,7 @@ const RadioGroup = ({ value, handleChange }) => {
           Female
         </label>
       </div>
+        {error && <p className="text-red-600 ">{error}</p>}
     </div>
   );
 };

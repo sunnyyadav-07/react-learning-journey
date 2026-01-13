@@ -10,6 +10,7 @@ const TextInput = ({
   error,
   autoComplete,
 }) => {
+  console.log(error)
   return (
     <div>
       <label className="block font-medium mb-1" htmlFor={name}>
@@ -25,6 +26,7 @@ const TextInput = ({
         onChange={handleChange}
         className="w-full border rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400"
       />
+      {error && <p className="text-red-600">{error}</p>}
     </div>
   );
 };
