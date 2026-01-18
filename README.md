@@ -41,6 +41,7 @@ Each folder represents **one day of learning** with:
 | 11  | Form handling file                        | ✔ | `day11/src/notes.md` |
 | 12  | useRef hook                               | ✔ | `day12/src/notes.md` |
 | 13  | Project(Resgistration form) set-up and UI | ✔ | `day13/src/notes.md` |
+| 14  | Project(Resgistration form) completed     | ✔ | `day13/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
