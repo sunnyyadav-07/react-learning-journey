@@ -10,7 +10,6 @@ const TextInput = ({
   error,
   autoComplete,
 }) => {
-  console.log(error)
   return (
     <div>
       <label className="block font-medium mb-1" htmlFor={name}>

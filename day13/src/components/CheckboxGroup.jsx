@@ -12,7 +12,7 @@ const CheckboxGroup = ({checked,handleChange,error}) => {
               type="checkbox"
               name={item.toLowerCase()}
               className="accent-blue-600"
-              checked={checked[item.toLowerCase()]}
+              checked={checked.includes(item.toLowerCase())}
               onChange={handleChange}
             />
             {item}
