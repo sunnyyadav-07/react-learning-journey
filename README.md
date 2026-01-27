@@ -46,6 +46,7 @@ Each folder represents **one day of learning** with:
 | 16  | React Hook Form (part-2) Explored `Zod library` for schema validation with `RHF` | ✔ | `day16/src/notes.md` |
 | 17  | React Hook Form (part-3) Explored `Controller` with `custom inputs`              | ✔ | `day17/src/notes.md` |
 | 18  | Made `multi step form`                                                           | ✔ | `day18/src/notes.md` |
+| 19  | Api handling with `axios` and coverd `http` methods `post,get,delete,put`        | ✔ | `day19/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
