@@ -49,7 +49,8 @@ Each folder represents **one day of learning** with:
 | 19  | Api handling with `axios` and coverd `http` methods `post,get,delete,put`        | ✔ | `day19/src/notes.md` |
 | 20  | Axios `interceptors`, Axios `params`, `Promise.all` and `Promise.allSettled `    | ✔ | `day20/src/notes.md` |
 | 21  | React router dom `(fundamentals)`                                                | ✔ | `day21/src/notes.md` |
-| 22  | Mini e-commerce `products` page                                                  | ✔ | `day21/src/notes.md` |
+| 22  | Mini e-commerce `products` page                                                  | ✔ | `day22/src/notes.md` |
+| 23  | Context API                                                                      | ✔ | `day23/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
