@@ -51,6 +51,7 @@ Each folder represents **one day of learning** with:
 | 21  | React router dom `(fundamentals)`                                                | ✔ | `day21/src/notes.md` |
 | 22  | Mini e-commerce `products` page                                                  | ✔ | `day22/src/notes.md` |
 | 23  | Context API                                                                      | ✔ | `day23/src/notes.md` |
+| 24  | `Zustand` for state management because it is better than `Context API`           | ✔ | `day24/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
