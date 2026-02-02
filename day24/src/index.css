@@ -1,0 +1,16 @@
+@import "tailwindcss";
+:root {
+  --bg: #f1ecec;
+  --text: #000000;
+  --button-bg: #000000;
+  --button-text: #ffffff;
+  --nav-bg: #0891b2;
+}
+
+[data-theme="dark"] {
+  --bg: #1f1e1e;
+  --text: #ffffff;
+  --button-bg: #ffffff;
+  --button-text: #000000;
+  --nav-bg: #0f172a;
+}
