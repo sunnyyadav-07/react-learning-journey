@@ -1,0 +1,8 @@
+
+const Wrapper = ({ children }) => {
+
+
+  return <div className="max-w-290 m-auto">{children}</div>;
+};
+
+export default Wrapper;
