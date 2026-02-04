@@ -52,7 +52,8 @@ Each folder represents **one day of learning** with:
 | 22  | Mini e-commerce `products` page                                                  | ✔ | `day22/src/notes.md` |
 | 23  | Context API                                                                      | ✔ | `day23/src/notes.md` |
 | 24  | `Zustand` for state management because it is better than `Context API`           | ✔ | `day24/src/notes.md` |
-| 25  | `News app` project initial` UI set up` and `folder structure`                          | ✔ |                      |
+| 25  | `News app` project initial` UI set up` and `folder structure`                    | ✔ |                      |
+| 26  | `News app` project completed                                                     | ✔ | `day25/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
