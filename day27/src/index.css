@@ -1,0 +1,50 @@
+@import "tailwindcss";
+/* body,
+html,
+#root {
+  width: 100%;
+  height: 100%;
+}
+body {
+  background-color: #0f172a;
+  color: white;
+} */
+:root {
+  --bg-color: #0f172a;
+  --heading-text: #f8fafc;
+  --divider-line: #334155;
+  --expense-card-bg: #1e293b;
+  --expense-card-text: #fca5a5;
+  --expense-card-amount: #ef4444;
+  --expense-card-border: #7f1d1d;
+  --income-card-bg: #1e293b;
+  --income-card-text: #6ee7b7;
+  --income-card-amount: #22c55e;
+  --income-card-border: #14532d;
+  --main-balance-text: #cbd5e1;
+  --main-amount-text: #38bdf8;
+  --primary-add-btn-bg: #2563eb;
+  --primary-add-btn-hover: #1d4ed8;
+  --primary-add-btn-text: #ffffff;
+  --remove-btn-bg: #dc2626;
+  --remove-btn-text: #ffffff;
+  --remove-btn-hover: #b91c1c;
+  --transaction-list-bg: #1e293b;
+  --transaction-list-border: #334155;
+  --transaction-list-title-text: #f8fafc;
+  --transaction-list-date-text: #94a3b8;
+  --transaction-list-amount-income: #22c55e;
+  --transaction-list-amount-expense: #ef4444;
+  --form-input-bg: #334155;
+  --form-input-text: #f8fafc;
+  --form-input-placeholder: #94a3b8;
+  --form-input-border: #475569;
+  --form-input-focus: #38bdf8;
+  --modal-bg: #030a25 ;
+  --card-bg: #1e293b;
+  --search-bg: #334155;
+  --search-text: #f8fafc;
+  --search-border: #475569;
+  --search-focus: #38bdf8;
+  --search-placeholder: #a1a1aa;
+}
