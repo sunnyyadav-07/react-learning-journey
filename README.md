@@ -54,6 +54,8 @@ Each folder represents **one day of learning** with:
 | 24  | `Zustand` for state management because it is better than `Context API`           | ✔ | `day24/src/notes.md` |
 | 25  | `News app` project initial` UI set up` and `folder structure`                    | ✔ |                      |
 | 26  | `News app` project completed                                                     | ✔ | `day25/src/notes.md` |
+| 27  | `Expense tracker` project initial `UI set up` and `folder structure`             | ✔ |                      |
+| 28  | `Expense tracker` project completed                                              | ✔ | `day27/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
