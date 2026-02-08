@@ -1,17 +1,14 @@
 @import "tailwindcss";
-/* body,
+ body,
 html,
 #root {
   width: 100%;
   height: 100%;
 }
-body {
-  background-color: #0f172a;
-  color: white;
-} */
+
 :root {
   --bg-color: #0f172a;
-  --heading-text: #f8fafc;
+  --heading-text: #f9fafb;
   --divider-line: #334155;
   --expense-card-bg: #1e293b;
   --expense-card-text: #fca5a5;

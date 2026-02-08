@@ -10,7 +10,7 @@ function App() {
       {isFormOpen ? (
         <Form />
       ) : (
-        <div className="bg-(--bg-color) h-screen">
+        <div className="bg-(--bg-color) min-h-screen w-full">
           <Navbar />
           <Main />
         </div>
