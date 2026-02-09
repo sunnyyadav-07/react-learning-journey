@@ -56,6 +56,7 @@ Each folder represents **one day of learning** with:
 | 26  | `News app` project completed                                                     | ✔ | `day25/src/notes.md` |
 | 27  | `Expense tracker` project initial `UI set up` and `folder structure`             | ✔ |                      |
 | 28  | `Expense tracker` project completed                                              | ✔ | `day27/src/notes.md` |
+| 29  | `React-redux` for state management in big apps                                   | ✔ | `day29/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
