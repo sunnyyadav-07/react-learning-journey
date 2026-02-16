@@ -60,7 +60,9 @@ Each folder represents **one day of learning** with:
 | 30  | Built a weather app(UI not focused) with `Redux` only to understand the all concept      | ✔ | `day30/src/notes.md` |
 | 31  | Learned about `Redux-toolkit`                                                            | ✔ | `day31/src/notes.md` |
 | 32  | Built a employee management project to understand `Redux-toolkit` practically.           | ✔ | `day32/src/notes.md` |
-| 33  | `Custom hook` in React                                                                     | ✔ | `day33/src/notes.md` |
+| 33  | `Custom hook` in React                                                                   | ✔ | `day33/src/notes.md` |
+| 34  | Understand deeply about`React Lifecyle`                                                  | ✔ | `day34/src/notes.md` |
+| 35  | Understand the use of `React.memo` for optimization                                      | ✔ | `day35/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
