@@ -63,6 +63,7 @@ Each folder represents **one day of learning** with:
 | 33  | `Custom hook` in React                                                                   | ✔ | `day33/src/notes.md` |
 | 34  | Understand deeply about`React Lifecyle`                                                  | ✔ | `day34/src/notes.md` |
 | 35  | Understand the use of `React.memo` for optimization                                      | ✔ | `day35/src/notes.md` |
+| 36  | Understand the use of `useMemo` and `useCallback` hooks for optimization                 | ✔ | `day36/src/notes.md` |
 
 *(This table will grow as I progress every day)*
 
