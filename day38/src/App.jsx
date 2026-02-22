@@ -2,6 +2,7 @@
 import './app.scss'
 import Dock from './components/Dock'
 import Navbar from './components/Navbar'
+import Github from './components/windows/Github'
 function App() {
 
   return (
@@ -10,6 +11,7 @@ function App() {
 <main>
   <Navbar/>
   <Dock/>
+  <Github/>
   </main></>
   )
 }
