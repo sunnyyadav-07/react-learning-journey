@@ -3,19 +3,22 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 html,
 body,
 #root {
   width: 100%;
   height: 100%;
 }
+
 body {
   background-color: black;
 }
+
 main {
   height: 100%;
   width: 100%;
-  background-image: url("../public/a-chosen-soul-MOIGsaj8te0-unsplash\ \(1\).jpg");
+  background-image: url("../public/a-chosen-soul-MOIGsaj8te0-unsplash (1).jpg");
   position: relative;
   overflow: hidden;
-}
+}/*# sourceMappingURL=app.css.map */

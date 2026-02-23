@@ -3,7 +3,6 @@
   border-radius: 0.75rem;
   overflow: hidden;
   height: 100%;
-
   color: rgb(168, 168, 168);
   font-family:
     system-ui,
@@ -59,11 +58,13 @@
     height: 100%;
   }
 
-  .main-content {
-    height: 100%;
-  }
+  
 
-  // *::-webkit-scrollbar{
-  //     width: 8px;
-  // }
+  *::-webkit-scrollbar{
+      width: 5px;
+  }
+  *::-webkit-scrollbar-thumb{
+      background-color: gray;
+      border-radius: 4px;
+  }
 }

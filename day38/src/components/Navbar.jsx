@@ -1,5 +1,5 @@
 import "./nav.scss";
-import DateTime from "./DateTime";
+import DateTime from "./windows/DateTime";
 
 const Nav = () => {
   return (
