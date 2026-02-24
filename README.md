@@ -65,6 +65,7 @@ Each folder represents **one day of learning** with:
 | 35  | Understand the use of `React.memo` for optimization                                      | ✔ | `day35/src/notes.md` |
 | 36  | Understand the use of `useMemo` and `useCallback` hooks for optimization                 | ✔ | `day36/src/notes.md` |
 | 37  | Understand `Virtualization` for optimizing list rendering in React                       | ✔ | `day37/src/notes.md` |
+| 38  | Built macOS portfolio                                                                    | ✔ |                      |
 
 *(This table will grow as I progress every day)*
 
